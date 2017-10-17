@@ -3,8 +3,8 @@
 ==========
 
 **NOTICE: As of Oct 23, 2017, this repo is no longer maintained by its original
-author.  See `https://github.com/ajylee/call_map` for the original author's
-fork which will continue to be maintained.**
+author. See `https://github.com/ajylee/call_map` for the original author's fork
+which will continue to be maintained.**
 
 .. default-role:: code
 
